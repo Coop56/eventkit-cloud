@@ -19,7 +19,7 @@ setup(
         'Development Status :: 4 - Beta',
         'Framework :: Django',
         'Operating System :: POSIX :: Linux',
-        'Programming Language :: Python :: 3.5',
+        'Programming Language :: Python :: 3.7',
         'Programming Language :: JavaScript'
     ],
     license="BSD",
