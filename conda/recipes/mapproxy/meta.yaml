@@ -21,13 +21,13 @@ requirements:
     - pillow !=2.4.0
     - pip
     - python
-    - pyyaml >=3.0,<3.99
+    - pyyaml
     - setuptools
     - proj4
   run:
     - pillow !=2.4.0
     - python
-    - pyyaml >=3.0,<3.99
+    - pyyaml
     - setuptools
     - proj4
 

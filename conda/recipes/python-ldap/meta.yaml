@@ -21,13 +21,13 @@ requirements:
     - python
     - setuptools
     - pyasn1 ==0.4.4
-    - pyasn1-modules ==0.0.5
+    - pyasn1-modules ==0.2.4
     - openldap ==2.4.45
     - cyrus-sasl ==2.1.26
   run:
     - python
     - pyasn1 ==0.4.4
-    - pyasn1-modules ==0.0.5
+    - pyasn1-modules ==0.2.4
     - openldap ==2.4.45
     - cyrus-sasl ==2.1.26
 test:

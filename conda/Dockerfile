@@ -15,8 +15,7 @@ RUN apt-get update && apt-get install -y groff groff-base libcairo2-dev libpango
     conda config --add channels conda-forge && \
     conda config --add channels local && \
     echo "y" | conda update -n root --all && \
-    # because there is a bug in the latest version when indexing
-    echo "y" | conda install --force "conda-build=3.0.9"
+    echo "y" | conda install conda-build
 
 COPY ./ /root/
 

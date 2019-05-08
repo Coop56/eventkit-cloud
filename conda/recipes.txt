@@ -4,7 +4,6 @@ openldap
 python-ldap
 osmctools
 python-magic
-django
 django-audit-logging
 django-auth-ldap
 django-celery-beat
